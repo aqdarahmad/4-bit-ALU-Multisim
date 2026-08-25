@@ -123,6 +123,8 @@ The resulting 4-bit output and status flags can then be observed using the probe
 ├── 4-bit-ALU.ms14
 
 ```
+<img width="1090" height="809" alt="image" src="https://github.com/user-attachments/assets/730351ed-e874-4dc1-a8fa-672954bb30b8" />
+
 
 
 
